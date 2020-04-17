@@ -1,0 +1,10 @@
+.recipe{
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px black;
+    margin: 20px;
+    display: flex;
+    flex-direction: space-around;
+    background: white;
+    align-items: center;
+    min-width: 40%;
+}
